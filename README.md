@@ -1,5 +1,5 @@
 # Hi, I'm Josh
-Hi, I'm Josh<br>Windhoek, Namibia. Software Developer.<br><br>I build Android apps and tools for the Namibian market. Focused on real problems, local context.<br><br>Kotlin | Java | Python | Android | SQLite | Artificial Intelligence 
+Hi, I'm Josh<br>Windhoek, Namibia. Software Developer.<br><br>I build Android apps and tools for the Namibian market. Focused on real problems, local context.<br><br>Kotlin | Java | Python | SQL | Data Analytics| Artificial Intelligence 
 
 
 ## 🌐 Socials:
