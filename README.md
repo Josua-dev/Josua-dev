@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Josua%20Hafeni%20Uuyuni&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Josua%20Hafeni%20Uuyuni&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -21,21 +21,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Windhoek%2C_Namibia-8B5CF6?style=flat-square&labelColor=1a1a2e" alt="Location"/>
-  <img src="https://img.shields.io/badge/📧_josua.uuyuni%40gmail.com-A78BFA?style=flat-square&labelColor=1a1a2e&logo=gmail&logoColor=white" alt="Email"/>
-  <img src="https://img.shields.io/badge/📱_%2B264_81_808_8950-7C3AED?style=flat-square&labelColor=1a1a2e" alt="Phone"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Windhoek%2C_Namibia-8B5CF6?style=flat-square&labelColor=1a1a2e" alt="Location"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_jauuyuni%40gmail.com-A78BFA?style=flat-square&labelColor=1a1a2e&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1_%2B264_81_808_8950-7C3AED?style=flat-square&labelColor=1a1a2e" alt="Phone"/>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://josua-dev.github.io/josua-dev/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore-7C3AED?style=for-the-badge&logoColor=white&logo=firefox&labelColor=1a1a2e" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Explore-7C3AED?style=for-the-badge&logoColor=white&logo=firefox&labelColor=1a1a2e" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/josua-uuyuni-215b55256/">
+  <a href="https://www.linkedin.com/in/josuauuyuni/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
   </a>
-  <a href="mailto:josua.uuyuni@gmail.com">
+  <a href="mailto:jauuyuni@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
   </a>
   <a href="https://github.com/Josua-dev">
@@ -345,94 +345,6 @@ Conducted research on applied machine learning techniques for real-world problem
 <hr/>
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Achievements
-
-<br/>
-
-<p align="center">
-
-| Recognition | Details |
-|:------------|:--------|
-| 🏆 **Dean's Merit List** | NUST Faculty of Computing — Top 5% academic performance across the faculty |
-| 🥇 **Hackathon Champion** | First Place — NUST Annual Hackathon — Built an AI-powered campus navigation system in 48 hours |
-| 📜 **Research Publication** | Co-author — "Transfer Learning Approaches for Low-Resource African Language NLP" — NUST Symposium 2024 |
-| 🌟 **Google DE Scholarship** | Awarded Google Data Engineering scholarship for cloud architecture excellence |
-| 🎯 **AWS Cloud Quest Champion** | Completed all AWS Cloud Quest domains — Cloud Practitioner, Solutions Architect, Machine Learning |
-| 💡 **Open Source Contributor** | Active contributions to Apache Kafka ecosystem and Spring Boot community projects |
-| 🏅 **Cisco Networking Academy** | Top Performer — CCNA & Cybersecurity Essentials — 95th percentile in cohort |
-
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Certifications
-
-<br/>
-
-### ☁️ Amazon Web Services
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Foundational-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1a1a2e" alt="AWS Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1a1a2e" alt="AWS Solutions Architect"/>
-  <img src="https://img.shields.io/badge/AWS_Developer-Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1a1a2e" alt="AWS Developer"/>
-</p>
-
-### 🛡️ Oracle Cloud
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e" alt="OCI Foundations"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud_Data_Management-Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e" alt="OCI Data Management"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud_Architecture-Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e" alt="OCI Architect"/>
-</p>
-
-### 🎓 NPTEL — SWAYAM
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Computing-Elite-7C3AED?style=for-the-badge&logo=nptel&logoColor=white&labelColor=1a1a2e" alt="Cloud Computing"/>
-  <img src="https://img.shields.io/badge/Data_Science-Elite-7C3AED?style=for-the-badge&logo=nptel&logoColor=white&labelColor=1a1a2e" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Programming_in_Java-Elite-7C3AED?style=for-the-badge&logo=nptel&logoColor=white&labelColor=1a1a2e" alt="Java Programming"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-Elite-7C3AED?style=for-the-badge&logo=nptel&logoColor=white&labelColor=1a1a2e" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/DBMS-Elite-7C3AED?style=for-the-badge&logo=nptel&logoColor=white&labelColor=1a1a2e" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-Elite-7C3AED?style=for-the-badge&logo=nptel&logoColor=white&labelColor=1a1a2e" alt="Operating Systems"/>
-</p>
-
-### 🌐 Cisco Networking Academy
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" alt="CCNA"/>
-  <img src="https://img.shields.io/badge/Cybersecurity_Essentials-Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Packet_Tracer-Skills_Challenge-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" alt="Packet Tracer"/>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Coding Profiles
-
-<br/>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Josua_Uuyuni/">
-    <img src="https://img.shields.io/badge/LeetCode-Expert-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/josuauuyuni/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/josua_uuyuni">
-    <img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/users/josua_uuyuni">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" alt="CodeChef"/>
-  </a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> GitHub Analytics
 
 <br/>
@@ -538,10 +450,10 @@ open_to:
 <br/>
 
 <p align="center">
-  <a href="mailto:josua.uuyuni@gmail.com">
+  <a href="mailto:jauuyuni@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/josua-uuyuni-215b55256/">
+  <a href="https://www.linkedin.com/in/josuauuyuni/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Josua-dev">
@@ -557,5 +469,5 @@ open_to:
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=%22First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%22&fontSize=18&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=%22First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%22&fontSize=18&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%"/>
 </p>
