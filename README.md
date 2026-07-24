@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Windhoek%2C_Namibia-8B5CF6?style=flat-square&labelColor=1a1a2e" alt="Location"/>
   <img src="https://img.shields.io/badge/jauuyuni%40gmail.com-A78BFA?style=flat-square&labelColor=1a1a2e&logo=gmail&logoColor=white" alt="Email"/>
-  <img src="https://img.shields.io/badge/%2B264_81_808_8950-7C3AED?style=flat-square&labelColor=1a1a2e" alt="Phone"/>
 </p>
 
 <br/>
