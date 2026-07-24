@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Josua%20Hafeni%20Uuyuni&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Josua%20Hafeni%20Uuyuni&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Software%20Engineer%20%7C%20AI%20and%20ML%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -21,16 +21,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Windhoek%2C_Namibia-8B5CF6?style=flat-square&labelColor=1a1a2e" alt="Location"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7_jauuyuni%40gmail.com-A78BFA?style=flat-square&labelColor=1a1a2e&logo=gmail&logoColor=white" alt="Email"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%B1_%2B264_81_808_8950-7C3AED?style=flat-square&labelColor=1a1a2e" alt="Phone"/>
+  <img src="https://img.shields.io/badge/Windhoek%2C_Namibia-8B5CF6?style=flat-square&labelColor=1a1a2e" alt="Location"/>
+  <img src="https://img.shields.io/badge/jauuyuni%40gmail.com-A78BFA?style=flat-square&labelColor=1a1a2e&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/%2B264_81_808_8950-7C3AED?style=flat-square&labelColor=1a1a2e" alt="Phone"/>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://josua-dev.github.io/josua-dev/">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Explore-7C3AED?style=for-the-badge&logoColor=white&logo=firefox&labelColor=1a1a2e" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logoColor=white&logo=firefox&labelColor=1a1a2e" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/josuauuyuni/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
