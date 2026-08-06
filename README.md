@@ -119,16 +119,16 @@ engineering_principles:
 
 <br/>
 
-| Domain | Proficiency | Details |
-|:-------|:------------|:--------|
-| **Machine Learning** | ⚡ Expert | Supervised/Unsupervised Learning, Ensemble Methods, Feature Engineering, Dimensionality Reduction |
-| **Deep Learning** | ⚡ Advanced | CNNs, RNNs/LSTMs, Transformers, Transfer Learning, GANs, Neural Architecture Search |
-| **NLP & LLMs** | ⚡ Expert | BERT, GPT Architectures, Fine-tuning, RAG Pipelines, Prompt Engineering, Tokenization Strategies |
-| **Computer Vision** | ⚡ Advanced | Object Detection (YOLO, R-CNN), Image Segmentation, Face Recognition, OCR Pipelines |
-| **MLOps & Production** | ⚡ Expert | MLflow, Kubeflow, Model Serving (TFServing, TorchServe), A/B Testing, Drift Monitoring |
-| **Data Engineering** | ⚡ Advanced | ETL Pipelines, Spark, Streaming (Kafka/Flink), Data Warehousing, Lakehouse Architecture |
-| **Reinforcement Learning** | ⚡ Intermediate | Q-Learning, Policy Gradients, PPO, DQN, Multi-Agent Systems |
-| **Time Series Analysis** | ⚡ Advanced | ARIMA, Prophet, LSTMs for Forecasting, Anomaly Detection, Change Point Detection |
+| Domain | Details |
+|:-------|:--------|
+| **Machine Learning** | Supervised/Unsupervised Learning, Ensemble Methods, Feature Engineering, Dimensionality Reduction |
+| **Deep Learning** | CNNs, RNNs/LSTMs, Transformers, Transfer Learning, GANs, Neural Architecture Search |
+| **NLP & LLMs** | BERT, GPT Architectures, Fine-tuning, RAG Pipelines, Prompt Engineering, Tokenization Strategies |
+| **Computer Vision** | Object Detection (YOLO, R-CNN), Image Segmentation, Face Recognition, OCR Pipelines |
+| **MLOps & Production** | MLflow, Kubeflow, Model Serving (TFServing, TorchServe), A/B Testing, Drift Monitoring |
+| **Data Engineering** | ETL Pipelines, Spark, Streaming (Kafka/Flink), Data Warehousing, Lakehouse Architecture |
+| **Reinforcement Learning** | Q-Learning, Policy Gradients, PPO, DQN, Multi-Agent Systems |
+| **Time Series Analysis** | ARIMA, Prophet, LSTMs for Forecasting, Anomaly Detection, Change Point Detection |
 
 <br/>
 <hr/>
