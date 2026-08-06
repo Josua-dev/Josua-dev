@@ -294,8 +294,8 @@ A comprehensive property lifecycle management system automating end-to-end lease
 
 <br/>
 
-### **Software Engineering Intern** — *Namibia University of Science and Technology*
-<span style="color:#8B5CF6;">*Feb 2025 – Present · Windhoek, Namibia*</span>
+### **Software Developer** — *Namibia University of Science and Technology*
+<span style="color:#8B5CF6;">*Feb 2024 – Present · Windhoek, Namibia*</span>
 
 Engineering enterprise-grade full-stack applications and data platforms that serve the university's 15K+ student and faculty community. Architecting scalable microservices for academic operations, building real-time analytics pipelines, and modernizing legacy systems through cloud-native transformation.
 
@@ -307,35 +307,8 @@ Engineering enterprise-grade full-stack applications and data platforms that ser
 
 **Technologies:** `Angular` `Spring Boot` `PostgreSQL` `Apache Spark` `Kafka` `Docker` `Kubernetes` `Terraform` `Jenkins`
 
-<br/>
-
-### **Freelance Full Stack Developer** — *Self-Employed*
-<span style="color:#8B5CF6;">*Jan 2024 – Present · Windhoek, Namibia*</span>
-
-Delivering enterprise software solutions for clients across multiple industries, including financial services, transportation, and property management. Leading full product lifecycles from requirements gathering through architecture design, development, testing, and production deployment.
-
-- Built a real-time financial intelligence dashboard processing 500K daily transactions with sub-100ms API latency, serving 10K+ concurrent users
-- Engineered an intelligent transport optimization platform handling 50K+ daily routes with real-time GPS telemetry at 10Hz frequency
-- Developed a comprehensive lease management system processing 5K+ agreements with automated document generation and OCR-based digitization
-- Implemented fraud detection ML pipeline achieving 99.7% accuracy, processing real-time transaction streams via Kafka
-- Deployed and managed cloud infrastructure on AWS/GCP with cost optimization delivering 40% reduction in cloud spend
-
-**Technologies:** `React` `Node.js` `Python` `MongoDB` `PostgreSQL` `Docker` `AWS` `GCP` `TensorFlow` `Kafka`
 
 <br/>
-
-### **Machine Learning Research Assistant** — *NUST AI Research Lab*
-<span style="color:#8B5CF6;">*Jun 2024 – Dec 2024 · Windhoek, Namibia*</span>
-
-Conducted research on applied machine learning techniques for real-world problems, focusing on natural language processing for low-resource African languages and computer vision for automated infrastructure monitoring.
-
-- Developed transformer-based NLP models for text classification in Oshiwambo languages, achieving 92% F1 score with limited training data
-- Implemented YOLOv8-based infrastructure defect detection system achieving 95% mAP on road maintenance imagery
-- Built automated ML pipeline with MLflow for experiment tracking and model versioning, supporting 200+ experiments
-- Published research findings on transfer learning approaches for low-resource language NLP at university symposium
-- Mentored 5 junior researchers in Python, ML fundamentals, and experimental design methodologies
-
-**Technologies:** `Python` `PyTorch` `TensorFlow` `Transformers` `YOLO` `MLflow` `Jupyter` `Pandas` `Scikit-learn`
 
 <br/>
 <hr/>
