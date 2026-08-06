@@ -13,11 +13,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Sc._Computer_Science-NUST-7C3AED?style=flat-square&labelColor=1a1a2e&logo=academia&logoColor=white" alt="Degree"/>
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=flat-square&labelColor=1a1a2e&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=flat-square&labelColor=1a1a2e&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Google_DE-Certified-4285F4?style=flat-square&labelColor=1a1a2e&logo=googlecloud&logoColor=white" alt="Google DE"/>
-  <img src="https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&labelColor=1a1a2e&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-Specialist-6C5CE7?style=flat-square&labelColor=1a1a2e&logo=tensorflow&logoColor=white" alt="ML"/>
+  <img src="https://img.shields.io/badge/Google_DE--4285F4?style=flat-square&labelColor=1a1a2e&logo=googlecloud&logoColor=white" alt="Google DE"/>
+  <img src="https://img.shields.io/badge/Machine_Learning--6C5CE7?style=flat-square&labelColor=1a1a2e&logo=tensorflow&logoColor=white" alt="ML"/>
 </p>
 
 <p align="center">
